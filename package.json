@@ -1,0 +1,23 @@
+{
+  "name": "vite-basic-cache",
+  "description": "This package helps you to cache your files with service worker.",
+  "version": "1.1.6",
+  "type": "commonjs",
+  "scripts": {},
+  "exports": {
+    ".": {
+      "require": "./package/index.cjs",
+      "import": "./package/index.mjs"
+    }
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/NazmusSayad/vite-basic-cache.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/NazmusSayad/vite-basic-cache/issues"
+  },
+  "homepage": "https://github.com/NazmusSayad/vite-basic-cache#readme"
+}
